@@ -15,3 +15,10 @@ git commit -m " first.txt changed "
 
 * git diff разница между commit-мы 
 
+* git branch ,показывает ту ветку где находимся
+
+* git branch + имя новый ветки , создает новую ветку 
+
+* git branch -d имя ветки , удаляет ветку 
+
+* clear , чтоы очистить терминал 
