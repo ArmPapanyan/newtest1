@@ -10,6 +10,7 @@
 git commit -m " first.txt changed " 
  
 
+* git merge , и имя ветки , сливает ветки
 
 * git log , показываает список всех commit-ов
 
@@ -22,3 +23,14 @@ git commit -m " first.txt changed "
 * git branch -d имя ветки , удаляет ветку 
 
 * clear , чтоы очистить терминал 
+
+* git status ,показывает статус 
+
+* git commit -am
+
+# Состаяние файлов
+
+* new file, файл под контролем Git
+* deleted , файл который был удален
+* modified , файл каторый был изменен но их изминение еще не были зафиксировано
+* untracked files , файл который еще не под контролем Git 
