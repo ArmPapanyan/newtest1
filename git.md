@@ -33,4 +33,4 @@ git commit -m " first.txt changed "
 * new file, файл под контролем Git
 * deleted , файл который был удален
 * modified , файл каторый был изменен но их изминение еще не были зафиксировано
-* untracked files , файл который еще не под контролем Git 
+* untracked files , файл который еще не под контролем Git git
