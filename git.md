@@ -7,3 +7,4 @@
 * git log , показываает список всех commit-ов
 
 * git diff разница между commit-мы 
+
